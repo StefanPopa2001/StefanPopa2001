@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StefanPopa2001
-- 👀 I’m interested in video editing / photo editing
-- 🌱 I’m currently learning front end libs
+- 👀 I’m interested in full stack developement
+- 🌱 I’m currently learning React/C#
 - 💞️ I’m looking to collaborate on hackatons / game jams
 - 📫 How to reach me popa.stefan.pro@gmail.com
 
