@@ -1,16 +1,16 @@
 - 📁 StefanPopa/
-- ├── 📄 README.md
+- ├📄 README.md
 - │
-- ├── 👋 about-me/
-- │   ├── 🎓 management-computing.txt
-- │   └── 🎓 industrial-computing.txt (soon™)
+- ├👋 about-me/
+- │    ├── 🎓 management-computing.txt
+- │    └── 🎓 industrial-computing.txt (soon™)
 - │
-- ├── 💻 interests/
-- │   ├── fullstack-dev.md
-- │   └── hackathons-and-gamejams.md
+- ├ 💻 interests/
+- │    ├── fullstack-dev.md
+- │    └── hackathons-and-gamejams.md
 - │
-- ├── 📬 contact/
-- │   └── email.txt → popa.stefan.pro@gmail.com
+- ├📬 contact/
+- │    └── email.txt → popa.stefan.pro@gmail.com
 - │
 - └── 🐱‍👤 Ubuntu-my-beloved.azhebaijan
 
