@@ -1,8 +1,19 @@
-- 👋 Hi, I’m @StefanPopa2001
-- 👀 I’m interested in full stack developement
-- 🌱 I’m currently learning React/C#
-- 💞️ I’m looking to collaborate on hackatons / game jams
-- 📫 How to reach me popa.stefan.pro@gmail.com
+📁 StefanPopa/
+├── 📄 README.md
+│
+├── 👋 about-me/
+│   ├── 🎓 management-computing.txt
+│   └── 🎓 industrial-computing.txt (soon™)
+│
+├── 💻 interests/
+│   ├── fullstack-dev.md
+│   └── hackathons-and-gamejams.md
+│
+├── 📬 contact/
+│   └── email.txt → popa.stefan.pro@gmail.com
+│
+└── 🧠 fun-fact.md
+    └── Ubuntu is my forever most beloved 🥰
 
 <!---
 StefanPopa2001/StefanPopa2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
