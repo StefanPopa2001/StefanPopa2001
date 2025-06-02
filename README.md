@@ -12,7 +12,7 @@
 - ├📬 contact/
 - │    └── email.txt → popa.stefan.pro@gmail.com
 - │
-- └── 🐱‍👤 Ubuntu-my-beloved.azhebaijan
+- └── 🐱‍👤 Ubuntu-my-beloved.azerbaïdjan
 
 <!---
 StefanPopa2001/StefanPopa2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
