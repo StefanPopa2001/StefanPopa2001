@@ -3,7 +3,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="140" viewBox="0 0 800 140" role="img" aria-label="Stefan Popa — Industrial software developer, IT/OT convergence">
   <rect width="800" height="140" fill="#121212"/>
   <line x1="240" y1="118" x2="560" y2="118" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
-  <text x="400" y="58" text-anchor="middle" fill="#EDEDED" font-family="Ubuntu, system-ui, sans-serif" font-size="28" font-weight="600" letter-spacing="-0.5">Stefan Popa</text>
   <text x="400" y="88" text-anchor="middle" fill="#A1A1AA" font-family="Ubuntu, system-ui, sans-serif" font-size="13" font-weight="500" letter-spacing="2.5">INDUSTRIAL SOFTWARE DEVELOPER · IT/OT</text>
 </svg>
 
